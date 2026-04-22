@@ -1,6 +1,6 @@
 # React + Vite
 
-[video link demonstrating functionality](https://drive.google.com/file/d/1ukx9Bz2dvppDIaEVyffSCLGZRMNztUAC/view?usp=sharing)
+[click this for video link demonstrating functionality](https://drive.google.com/file/d/1ukx9Bz2dvppDIaEVyffSCLGZRMNztUAC/view?usp=sharing)
 
  (Mobile App Dashboard)
 
